@@ -1,0 +1,8 @@
+{
+  "name": "QbabaBarber",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "id": "59228af0"
+}
